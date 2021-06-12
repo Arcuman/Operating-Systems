@@ -1,0 +1,16 @@
+﻿  lab7zad1.cpp
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(18,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(20,3): error C2065: lock: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(20,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bts"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(20,8): error C2065: bts: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(20,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mutex"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(21,3): error C2065: jc: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(21,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "SpinLoop"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(21,6): error C2065: SpinLoop: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(22,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(28,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(28,8): error C2065: lock: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "btr"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(28,13): error C2065: btr: необъявленный идентификатор
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(28,17): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mutex"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\7\lab7zad1\lab7zad1\lab7zad1.cpp(29,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

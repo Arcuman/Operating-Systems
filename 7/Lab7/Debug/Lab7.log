@@ -1,0 +1,8 @@
+﻿  Assembling asm.asm...
+asm.asm(1): error A2013: .MODEL must precede this directive
+asm.asm(4): error A2013: .MODEL must precede this directive
+asm.asm(5): error A2034: must be in segment block : ThreadStartProc
+asm.asm(6): error A2034: must be in segment block
+asm.asm(7): error A2034: must be in segment block
+asm.asm(8): fatal error A1010: unmatched block nesting : ThreadStartProc
+E:\VS\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\asm.obj" /W3 /errorReport:prompt  /Taasm.asm" с кодом "1".

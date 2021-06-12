@@ -1,0 +1,6 @@
+﻿  OS08_04X.cpp
+D:\BSTU\3 course\OS\LabsPractis\8\lab8\OS08_04X\OS08_04X.cpp(50,14): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\BSTU\3 course\OS\LabsPractis\8\lab8\OS08_04X\OS08_04X.cpp(51,11): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+D:\BSTU\3 course\OS\LabsPractis\8\lab8\OS08_04X\OS08_04X.cpp(51,11): message : рекомендуется использовать "%lld" в строке форматирования
+D:\BSTU\3 course\OS\LabsPractis\8\lab8\OS08_04X\OS08_04X.cpp(51,11): message : рекомендуется использовать "%I64d" в строке форматирования
+  OS08_04X.vcxproj -> D:\BSTU\3 course\OS\LabsPractis\8\lab8\Debug\OS08_04X.exe

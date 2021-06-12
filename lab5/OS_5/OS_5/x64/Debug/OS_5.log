@@ -1,0 +1,4 @@
+﻿  OS_5.cpp
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\lab5\OS_5\OS_5\OS_5.cpp(66,17): error C2664: "BOOL GetProcessAffinityMask(HANDLE,PDWORD_PTR,PDWORD_PTR)": невозможно преобразовать аргумент 2 из "DWORD *" в "PDWORD_PTR"
+D:\bstu\thirdCourse2Sem\OS\1sem\LabsPractis\lab5\OS_5\OS_5\OS_5.cpp(66,46): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.h(1313,1): message : см. объявление "GetProcessAffinityMask"

@@ -1,0 +1,4 @@
+D:\Labs\OS\Lab7\x64\Debug\Lab7.exe
+D:\Labs\OS\Lab7\x64\Debug\Lab7.pdb
+D:\BSTU\3 course\OS\LabsPractis\7\1\Lab7\x64\Debug\Lab7.exe
+D:\BSTU\3 course\OS\LabsPractis\7\1\Lab7\x64\Debug\Lab7.pdb

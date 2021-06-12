@@ -1,0 +1,11 @@
+﻿  OS_5_2.cpp
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(83,39): warning C4477: "sscanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned __int64 *"
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(83,39): message : рекомендуется использовать "%lld" в строке форматирования
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(83,39): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(84,124): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(89,43): warning C4477: "sscanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "unsigned __int64 *"
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(89,43): message : рекомендуется использовать "%lld" в строке форматирования
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(89,43): message : рекомендуется использовать "%I64d" в строке форматирования
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(92,128): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\OS_5_2\OS_5_2.cpp(61,36): warning C4101: mask: неиспользованная локальная переменная
+  OS_5_2.vcxproj -> D:\BSTU\3 course\OS\LabsPractis\lab5\OS_5\Debug\OS_5_2.exe
